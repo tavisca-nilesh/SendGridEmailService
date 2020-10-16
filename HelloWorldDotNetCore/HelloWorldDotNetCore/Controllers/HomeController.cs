@@ -15,7 +15,7 @@ namespace HelloWorldDotNetCore.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Your application description page. dsad asd";
 
             return View();
         }
